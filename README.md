@@ -1,4 +1,4 @@
-# Sushi Restaurant Website
+# Restaurant Website
 
 Welcome to the Sushi Restaurant Website project! This is a modern, fully responsive website built using **HTML**, **CSS**, and **JavaScript**. The site is designed to showcase a sushi restaurant and includes beautifully designed, adaptive menus that look perfect on any device.
 
